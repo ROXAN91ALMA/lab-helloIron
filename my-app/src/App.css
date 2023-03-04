@@ -1,0 +1,73 @@
+.Navbar{
+  background-color: #242f46;
+  width: 1440px;
+  margin-left: 40px;
+
+}
+
+.logo-nav{
+  margin-left: 40px;
+}
+
+
+.menu-nav{
+  margin-left: 1300px;
+  margin-bottom: 20px;
+}
+
+
+.backgorund-header {
+  background-color: #242f46;
+  color:azure;
+  padding: 100px;
+  margin-right: 40px;
+  margin-left: 40px;
+  width: 1240px;
+  height: 400px;
+
+}
+
+.title-header {
+  font-size: 60px;
+  white-space: pre;
+}
+
+.text-header{
+  white-space: pre;
+}
+
+.button-awesome{
+  padding: 12px;
+  width: 120px;
+  height: 60px;
+  border-radius: 5px;
+  box-shadow: -1px 2px 10px -1px rgba(230,230,230,0.52);
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+.nav-iron{
+  position: fixed;
+  background-color: #333;
+  width: 1440px;
+  color: #FFFFFF;
+  background-color: #242f46;
+  margin-right: 40px;
+  margin-left: 40px;
+
+}
+
+.card-items{
+  width: 320px;
+  display: inline-block;
+  margin: 20px;
+  justify-content: space-around;
+
+  
+}
+
+
+.text-card {
+  width: 150px;
+}
